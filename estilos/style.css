@@ -89,6 +89,12 @@ div.campo > label {
 }
 
 
+div.campo > i {
+    color: white;
+    background-color: black;
+}
+
+
 form > input[type=submit] {
     display: block;
     font-size: 1em;
